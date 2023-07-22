@@ -7,8 +7,8 @@ const Header: React.FC = () => {
         <b> Sismo Connect Starter: onchain app with Next.js + Foundry</b>
       </h1>
       <h3>
-        <a href="https://docs.sismo.io"> Read the docs | </a>
-        <a href="https://builders.sismo.io"> Join the Telegram Builders Group </a>
+        <a target="_blank" href="https://docs.sismo.io"> Read the docs | </a>
+        <a target="_blank" href="https://builders.sismo.io"> Join the Telegram Builders Group </a>
       </h3>
       <p>
         1. The frontend requests ZK Proofs via Sismo Connect Button <br />
